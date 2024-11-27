@@ -10,7 +10,8 @@
     <div class="container">
         <h1>Russian Roulette</h1>
         <div class="revolver">
-            <img src="revolver-cartoon.png" alt="Revolver" id="revolver-image">
+            <!-- Ensure the image path is correct -->
+            <img src="revolver-cartoon.png" alt="Cartoon Revolver" id="revolver-image">
         </div>
         <div id="status">
             <p>Likelihood: <span id="likelihood">1 in 6</span> (<span id="percent">16.67%</span>)</p>
